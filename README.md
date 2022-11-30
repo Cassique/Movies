@@ -7,7 +7,7 @@
 
 ## 
 <p align="justify"> Esse projeto é uma implementação do projeto MarsRealEstate do programa Android Kotlin Fundamentals, em que é feito um consumo
-de Uma API, e os dados são apresentados em um GridView de uma RecyclerView, tudo isso usando componentes de arquitetura do Jetpack: tais como ViewModel, LiveData e DataBinding</p>
+de Uma API, e os dados são apresentados em um GridView de uma RecyclerView, tudo isso usando componentes de arquitetura do Jetpack tais como: ViewModel, LiveData e DataBinding</p>
 
 
 	🚧    Em construção...    🚧
